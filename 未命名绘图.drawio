@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T03:20:40.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="mpTZA8SeA8YmJvRozUeb" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T05:42:45.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8CX521q1pf7WpturK1Im" version="13.4.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1095" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.077;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-1" target="xlCSGGUP_YzawD2wq4ug-2">
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.077;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-1" target="xlCSGGUP_YzawD2wq4ug-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="100" as="sourcePoint" />
             <mxPoint x="430" y="100" as="targetPoint" />
@@ -15,10 +15,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xlCSGGUP_YzawD2wq4ug-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" vertex="1" parent="1">
           <mxGeometry x="254" y="87.5" width="52" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-2" target="xlCSGGUP_YzawD2wq4ug-6">
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-2" target="xlCSGGUP_YzawD2wq4ug-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlCSGGUP_YzawD2wq4ug-8" value="推送处理后的视频流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xlCSGGUP_YzawD2wq4ug-7">
@@ -26,10 +31,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-2" value="算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-2" value="算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-6" target="xlCSGGUP_YzawD2wq4ug-10">
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-6" target="xlCSGGUP_YzawD2wq4ug-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlCSGGUP_YzawD2wq4ug-12" value="拉取视频流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xlCSGGUP_YzawD2wq4ug-11">
@@ -37,11 +42,56 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-6" value="流媒体服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-6" value="流媒体服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xlCSGGUP_YzawD2wq4ug-10" value="前端播放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="xlCSGGUP_YzawD2wq4ug-18" target="xlCSGGUP_YzawD2wq4ug-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-10" value="前端(实时)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-18" value="存储" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="190" width="90" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-19" value="前端(回放)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-21" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="xlCSGGUP_YzawD2wq4ug-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="50" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="实时流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xlCSGGUP_YzawD2wq4ug-22">
+          <mxGeometry x="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="120" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-24" value="" style="endArrow=classic;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="xlCSGGUP_YzawD2wq4ug-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="50" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-25" value="存储流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xlCSGGUP_YzawD2wq4ug-23">
+          <mxGeometry x="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="150" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-33" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="xlCSGGUP_YzawD2wq4ug-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="50" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xlCSGGUP_YzawD2wq4ug-34" value="回放流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="xlCSGGUP_YzawD2wq4ug-32">
+          <mxGeometry x="50" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
