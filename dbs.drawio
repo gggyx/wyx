@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T01:44:57.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GLZM0bgowWYDip0Ei37-" version="13.11.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-18T01:45:22.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1VHVLA_60fKkg5OIfiho" version="13.11.0" type="github" pages="2">
   <diagram name="数据处理流程" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uz6cAK5WRG99VBMoR1IU-3" value="消息中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uz6cAK5WRG99VBMoR1IU-3" value="DBS服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xlCSGGUP_YzawD2wq4ug-22" value="" style="group" parent="1" vertex="1" connectable="0">
